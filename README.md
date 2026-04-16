@@ -57,6 +57,9 @@ ocr-smart-app/
 
 ---
 
+<img width="1397" height="742" alt="image" src="https://github.com/user-attachments/assets/6bc82aeb-9494-4352-9847-f85ec8bf6423" />
+
+
 ## 🌐 Future Improvements
 
 * 📄 PDF OCR support
